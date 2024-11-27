@@ -1,0 +1,45 @@
+/* Logo Styling */
+.brand-logo {
+  height: 90%;
+}
+
+/* Navigation and Footer Background */
+.mynav,
+body footer.page-footer {
+  background-color:rgba(3, 153, 164, 0.979);
+}
+/* Input Spin Button Removal */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0; /* Removes any leftover margin in WebKit */
+}
+
+input[type='number'] {
+  appearance: textfield; /* Standard property */
+  -moz-appearance: textfield; /* Firefox */
+}
+
+
+/* Input Styling */
+input {
+  outline: none;
+  border-width: 0 0 2px;
+}
+
+input:focus {
+  border-color: rgb(209, 69, 59); /* Border color on focus */
+}
+
+/* Amount Input Styling */
+input#amount {
+  color: red;
+  font-size: 6rem;
+  text-align: center;
+}
+
+/* Text Styling */
+span.red-text {
+  height: auto;
+  font-size: 6rem;
+}
