@@ -45,7 +45,8 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/rishav394/bloodbank.git
+git clone https://github.com/karthik365yenduri
+/bloodbank.git
 cd bloodbank-master
 ```
 
@@ -96,7 +97,7 @@ Make changes in `.env`
 
 [@rishav394](https://github.com/rishav394) - Initial work
 
-See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/karthik365yenduri/bloodbank/graphs/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements
 
